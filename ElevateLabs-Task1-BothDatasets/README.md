@@ -61,6 +61,7 @@ Located in: `deliverables/superstore/`
    - Numeric columns → cleaned and converted to numeric data types
 8. Added `Data_Quality_Notes` column in cleaned outputs
 
+**Note: Full SuperStoreOrders.csv file not uploaded due to GitHub file size limit; cleaned outputs are provided.**
 ---
 
 ## Interview Questions (Short Answers)
